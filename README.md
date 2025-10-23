@@ -5,4 +5,4 @@
 
 ---
 
-Your advanced VR car controller for immersive driving experiences in Unity.
+Advanced VR car controller for immersive driving experiences in Massive Loop.
