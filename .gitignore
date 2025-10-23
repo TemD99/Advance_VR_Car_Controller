@@ -115,3 +115,9 @@ DerivedData/
 
 # --- Test Artifacts ---
 /TestResults/
+
+# MVC Asset Installer flags
+FLAG-MVC_*.json
+STRING-MVC_*.json
+STRUCT-MVC_*.json
+
