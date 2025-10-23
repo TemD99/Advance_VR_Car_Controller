@@ -1,0 +1,15 @@
+﻿.c-arrow{
+	cursor: arrow; 
+}
+
+.c-link{
+	cursor: link;
+}
+
+.c-move{
+	cursor: move-arrow;
+}
+
+.c-split-left-right{
+	cursor: split-resize-left-right;
+}

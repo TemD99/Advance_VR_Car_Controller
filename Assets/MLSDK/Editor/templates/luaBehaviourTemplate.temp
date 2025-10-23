@@ -1,0 +1,18 @@
+do -- script {name} 
+	
+	-- get reference to the script
+	local {name} = LUA.script;
+	
+	-- start only called at beginning
+	function {name}.Start()
+	
+	
+	end
+
+	
+	-- update called every frame
+	function {name}.Update()
+
+	
+	end
+end

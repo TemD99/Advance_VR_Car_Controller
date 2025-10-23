@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1340236810, guid: e64d7c6a8d43a81478f08372f02691fe, type: 3}
+  m_Name: EmoteMenu
+  m_EditorClassIdentifier: 
+  m_IsButtonActive: 0
+  m_InputType: 3
+  m_ItemName: Emotes
+  m_ItemImage: {fileID: 21300000, guid: 49a85f9d2dce1734e88b139a9c1b2d75, type: 3}
+  m_GroupID: 0
+  m_Foldout: 1
+  m_QMBackBtnItemSO: {fileID: 0}
+  m_RuntimeBackBtnItemSO: {fileID: 0}
+  m_QMItemsSO:
+  - {fileID: 11400000, guid: 8d9dbc6071011ed4a9e5e4d06b7dd5f7, type: 2}
+  - {fileID: 11400000, guid: e117440a3ea1cdd498fe5f380e6d4486, type: 2}
+  - {fileID: 11400000, guid: af1bd8cd8e0bfdf46b4229ac750224e1, type: 2}
+  - {fileID: 11400000, guid: e30040a33801c684a9c219f58d641207, type: 2}
+  m_InputTypeToAdd: 3

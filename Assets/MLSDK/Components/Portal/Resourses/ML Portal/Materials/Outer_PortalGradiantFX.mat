@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Outer_PortalGradiantFX
+  m_Shader: {fileID: 4800000, guid: 1ed50e921f9e14c448d95845cc06e77a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FirstAlphaMap:
+        m_Texture: {fileID: 2800000, guid: 617ec97185b56d340b150c55a823c472, type: 3}
+        m_Scale: {x: 0, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _FirstMainTex:
+        m_Texture: {fileID: 2800000, guid: 5be858d6d1a5cfb47891e5c4f4a5311e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondAlphaMap:
+        m_Texture: {fileID: 2800000, guid: 5cb23379926936b4c884e945f005d3a2, type: 3}
+        m_Scale: {x: 2, y: 0}
+        m_Offset: {x: 0, y: 0}
+    - _SecondMainTex:
+        m_Texture: {fileID: 2800000, guid: 1dda544ec684b2946acbdffde580364a, type: 3}
+        m_Scale: {x: 200, y: 200}
+        m_Offset: {x: 0, y: 0}
+    - _ThirdAlphaMap:
+        m_Texture: {fileID: 2800000, guid: 99e7c82589e31af4b8a99949a1cc7f55, type: 3}
+        m_Scale: {x: 3, y: -0.02}
+        m_Offset: {x: 0, y: 0}
+    - _ThirdMainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ThirddMainTex:
+        m_Texture: {fileID: 2800000, guid: 5be858d6d1a5cfb47891e5c4f4a5311e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _FirstScrollXSpeed: 1
+    - _FirstScrollYSpeed: -20
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SecondScrollXSpeed: 0
+    - _SecondScrollYSpeed: -20
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _ThirdScrollXSpeed: 5
+    - _ThirdScrollYSpeed: -2
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FirstColor: {r: 0.95686275, g: 0.9607843, b: 0.21176471, a: 1}
+    - _FirstGlowColor: {r: 0.105882354, g: 0.8745098, b: 0.972549, a: 0.5019608}
+    - _SecondColor: {r: 0.7254902, g: 0.7921569, b: 0.15294118, a: 1}
+    - _SecondGlowColor: {r: 0.06666667, g: 0.49019608, b: 0.39215687, a: 0.5019608}
+    - _SecondScrollYSpeed: {r: 0, g: 0, b: 0, a: 1}
+    - _ThirdColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ThirdGlowColor: {r: 0.42352942, g: 0.83137256, b: 0.9254902, a: 0}
+    - _ThirdScrollYSpeed: {r: 0.9254902, g: 0.9098039, b: 0.8784314, a: 1}

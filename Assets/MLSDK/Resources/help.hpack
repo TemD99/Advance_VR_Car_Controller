@@ -1,0 +1,11 @@
+{
+    "version": 1,
+    "children": [
+        {
+            "key": "ide",
+            "value": "Note that this is not required, but highly recommended. <br> You can create coding environments to enable features such as auto complete by setting up supported 3rd party software. <br> The supported editors are listed on “Settings>Lua Editor”. Once you select your desired editor, the Massive Loop will create the required files to setup the environment. Some extensions may be required, which the settings panel will automatically install, or guide you to install it. Once an Editor selected, the massive loop will guide the Unity Editor to open Lua files in the selected editor.  ",
+            "title": "Code Editor Environment",
+            "children": []
+        }
+    ]
+}
